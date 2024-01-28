@@ -11,8 +11,6 @@ ipywidgets==8.0.4
 keyring==23.13.1
 lockfile==0.12.2
 matplotlib==3.7.2
-MetaTrader5==5.0.45
-MetaTrader5==5.0.45
 mock==5.1.0
 numpy==1.24.3
 pandas==2.0.3
