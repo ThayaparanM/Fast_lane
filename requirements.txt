@@ -10,7 +10,7 @@ ipython==8.15.0
 ipywidgets==8.0.4
 lockfile==0.12.2
 matplotlib==3.7.2
-numpy==1.24.3
+numpy>=1.21.0
 pandas==2.0.3
 plotly==5.9.0
 protobuf==4.25.2
