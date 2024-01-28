@@ -131,12 +131,12 @@ def main():
         st.success(pred)
 
 
-    #show_matrix=st.button("Show Matrix")
-    #if show_matrix:
-        #data = pd.read_csv("C:\\Users\\thaya\\Downloads\\CTQ_Fastline.csv", delimiter=";")
-        #st.dataframe(data)
+    show_matrix=st.button("Show Matrix")
+    if show_matrix:
+        data = pd.read_csv("CTQ_Fastline.csv", delimiter=";")
+        st.dataframe(data)
         #st.line_chart(data)
-        #st.bar_chart(data)
+        st.bar_chart(data)
         #st.area_chart(data)
 
 
