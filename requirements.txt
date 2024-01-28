@@ -14,8 +14,6 @@ matplotlib==3.7.2
 mock==5.1.0
 numpy==1.24.3
 pandas==2.0.3
-Pillow==9.4.0
-Pillow==10.2.0
 plotly==5.9.0
 protobuf==4.25.2
 pyDOE==0.3.8
